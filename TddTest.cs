@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
 namespace MonteCarlo_Program
 {
-    class TddTest
+    [TestFixture]
+    internal class TddTest
     {
+        [test]
         public void TestBucket()
         {
             Behaviour behavior = new Behaviour();
