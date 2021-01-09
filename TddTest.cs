@@ -14,7 +14,7 @@ namespace MonteCarlo_Program
             int[] Approximation = behavior.EstimationCalculator();
             int low = Approximation[0];
             int high = Approximation[2];
-            var bucket = new Bucket(10,40,160)//new bucketcount,igh,low
+            var bucket = new Bucket(10,40,160)//new bucketcount,high,low
         }
     }
 }
