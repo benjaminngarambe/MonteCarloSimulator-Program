@@ -1,4 +1,4 @@
-﻿<a href="https://www.instagram.com/ngarambe_benjamin/">
+<a href="https://www.instagram.com/ngarambe_benjamin/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Pi_30K.gif" alt="  Monte carlo simulation" >
 </a>
 
